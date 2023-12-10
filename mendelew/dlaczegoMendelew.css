@@ -1,0 +1,80 @@
+* {
+    background-color: red;
+    color: white;
+    font-family: Verdana;
+    font-size: 100%;
+    word-spacing: 3px;
+    zoom: 100%;
+}
+
+
+#baner {
+    font-size: 200%;
+    text-align: center;
+    background-color: rgb(180, 8, 8);
+    color: black;
+}
+
+#lewyBlokGora {
+    font-size: 20px;
+    width: 80%;
+    height: auto;
+    float: left;
+    margin-top: 25px;
+    
+}
+
+#lewyBlokDol {
+    width: 60%;
+    height: auto;
+    float:left;
+    font-size: 100%;
+}
+
+
+#pierwiastek {
+    height: auto;
+    width: 20%;
+    clear: right;
+    margin-top: 0;
+}
+
+#informacjePierwiastek {
+    margin-top:0;
+    float:right;
+    height: auto;
+    width: 35%;
+}
+
+ul{
+    list-style: square;
+}
+
+ul > li{
+    margin-top: 5px;
+}
+
+h2{
+    font-size:150%;
+}
+
+
+button{
+    margin-top: 5px;
+    background-color: rgb(124, 31, 31);
+    color:white;
+    border-radius: 100px;
+    border-color: black;
+    border-style:solid;
+    
+
+}
+
+
+button a{
+    background-color: rgb(124, 31, 31);
+    color:white;
+    text-decoration: none;
+
+}
+

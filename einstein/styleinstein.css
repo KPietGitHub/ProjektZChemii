@@ -1,17 +1,17 @@
-
+#zoom{
+    zoom:67%;
+}
 a {
     text-align: center;
     font-size: 70px;
-    color: #53d9d1;
+    color: #eb7132;
     display: block;
-    
+    height: 300px;
     
 }
 
 body {
-    background-color:  #53d9d1;
-    margin: 0;
-    
+    background-color:  #eb7132;
 }
 
 
@@ -23,17 +23,17 @@ body {
     opacity: 0.8;
     border-radius: 800px;
     border: 30px solid #000000;
+    clear: right;
+    display: block;
     transition: 2s;
-    float: left;
-    margin-top: 4%;
-    margin-left: 4%;
+    
     
 }
 
 #zdj1:hover {
     animation-name: rotate;
     opacity: 1.0;
-    animation-duration: 1.5s;
+    animation-duration: 3s;
     
 }
 
@@ -51,68 +51,56 @@ body {
 
 #link1 {
     background-color: #000000;
+    margin: 150px;
+    display: block;
+    margin-left: 50%;
     text-align: center;
     transition: 2s;
     border-radius: 50px;
-    float: left;
-    width: 40%;
-    margin-left: 20%;
-    margin-top: 5%;
-    height: 200px;
 }
 
 #link2 {
     background-color: #000000;
+    margin: 150px;
+    display: block;
+    margin-left: 50%;
     text-align: center;
     transition: 2s;
     border-radius: 50px;
-    float: left;
-    width: 40%;
-    margin-left: 20%;
-    margin-top: 5%;
-    height: 250px;
 }
 
 #link3 {
     background-color: #000000;
+    margin: 150px;
+    display: block;
+    margin-left: 50%;
     text-align: center;
     transition: 2s;
     border-radius: 50px;
-    float: left;
-    width: 40%;
-    margin-left: 20%;
-    margin-top: 5%;
-    height: 200px;
 }
-
 
 
 #link1:hover{
     
-    background-color: darkblue;
+    background-color: rgb(146, 89, 3);
     transition-duration: 2s;
     border-radius: 150px;
   
 }
 
 #link2:hover {
-    background-color: darkblue;
+    background-color: rgb(146, 89, 3);
     transition-duration: 2s;
     border-radius: 150px;
 }
 
 #link3:hover {
-    background-color: darkblue;
+    background-color: rgb(146, 89, 3);
     transition-duration: 2s;
     border-radius: 150px;
 }
 
 div a:hover{
     transition: 2s;
-    color: purple;
-}
-
-
-#XD{
-text-decoration: underline;
+    color: rgb(255, 124, 2)
 }

@@ -1,0 +1,91 @@
+*{
+    margin:0;
+    zoom: 100%;
+}
+
+body {
+    background-color: #53d9d1;
+}
+
+
+p {
+    font-family: Verdana;
+}
+
+#rodzinka {
+    float: left;
+    width: 25%;
+    height: 1000px;
+}
+
+
+#srodek {
+    float: left;
+    width: 50%;
+    height: auto;
+}
+
+.tekst{
+    margin-bottom: 100px;
+    float: left;
+    height: auto;
+    padding: 20px;
+}
+
+#pomnik {
+    float: left;
+    width: 25%;
+    padding: 0px;
+    height: 1000px;
+}
+
+
+
+a {
+    font-size: 40px;
+}
+
+#baner {
+    text-align: center;
+    font-family: Verdana;
+    height: auto;
+    background-color: blue;
+    width: 100%;
+    float: left;
+}
+
+.podtytul {
+    text-align: center;
+    text-decoration: underline overline;
+    
+}
+
+
+.tekst {
+    width: 100%;
+    padding: 2px;
+    height: 210px;
+    
+}
+
+footer {
+    float: left;
+    width: 100%;
+    text-align: center;
+    height: 100px;
+}
+
+
+#guzik {
+    width: 100%;
+    height: 100px;
+    margin-top: 0;
+    background-color: blue;
+    color: cyan;
+    clear:both;
+}
+
+#guzik:hover {
+    background-color: cyan;
+    color: darkblue;
+}

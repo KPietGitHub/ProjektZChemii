@@ -1,0 +1,138 @@
+
+
+
+* {
+    font-family: Verdana;
+    color: white;
+    margin: 0;
+}
+
+body {
+    background-color: #53d9d1;
+}
+
+
+#calosc {
+    height: 100%;
+}
+
+#sbaner {
+    background-color: black;
+    width: 100%;
+    float: left;
+    margin-bottom: 0;
+    text-align: center;
+    
+    
+}
+
+
+#baner {
+    text-align: center;
+    width: 100%;
+    float: left;
+    background-color: black;
+    margin-bottom: 1%;
+    height: 100px;
+
+    
+}
+
+
+#bloks {
+    width: 100%;
+    height: auto;
+    background-color: darkblue;
+    text-align: center;
+    float: left;
+    margin-bottom: 2%;
+}
+
+
+
+#lbaner {
+    background-color: black;
+    width: 49%;
+    float: left;
+    margin-bottom: 0;
+    text-align: center;
+    
+}
+
+#pbaner {
+    background-color: black;
+    width: 49%;
+    float: right;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+#blokl {
+    width: 49%;
+    float: left;
+    text-align: center;
+    background-color: darkblue;
+    height: auto;
+    
+}
+
+#blokp {
+    width: 49%;
+    float: right;
+    text-align: center;
+    background-color: darkblue;
+    height: auto;
+    
+}
+
+#stopka {
+    width: 50%;
+    float: right;
+    text-align: center;
+    background-color: black;
+    height: auto;
+    margin-top: 50px;
+}
+
+
+img {
+    float: right;
+    width: 10%;
+}
+
+
+hr {
+    margin: 1% 1%;
+}
+
+#stopka {
+    float: left;
+    width: 100%;
+    text-align: center;
+    height: 100px;
+    font-size: 50px;
+    transition: 2s;
+}
+
+#stopka:hover {
+    background-color: blue;
+    color: black;
+}
+
+
+
+
+#guzik {
+    width: 100%;
+    height: 100px;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    transition: 2s;
+}
+
+#guzik:hover {
+    background-color: blue;
+    color: black;
+}
